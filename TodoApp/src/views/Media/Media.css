@@ -1,0 +1,9 @@
+.sample-image{
+    max-height: 100px;
+    margin: 15px;
+}
+
+.image-sample-container{
+    display: flex;
+    justify-content: space-around;
+}

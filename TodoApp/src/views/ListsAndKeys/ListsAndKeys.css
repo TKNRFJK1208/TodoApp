@@ -1,0 +1,16 @@
+.flower-container{    
+    display: flex;
+}
+
+.flower-box{
+    margin: 15px;
+}
+
+.flower-image{
+    max-height: 125px;
+}
+
+.flower-caption{
+    text-align: center;
+    font-size: smaller;
+}
